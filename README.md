@@ -1,5 +1,3 @@
----
-
 # 📝 **README — Automated Job Discovery & Validation Pipeline**
 
 ## 📌 Overview
